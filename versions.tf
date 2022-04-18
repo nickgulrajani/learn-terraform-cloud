@@ -4,7 +4,7 @@ terraform {
     organization = "cdw-dvs"
 
     workspaces {
-      name = "getting-started"
+      name = "nicholas-learn-terraform-cloud"
     }
   }
 
