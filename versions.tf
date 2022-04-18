@@ -1,10 +1,10 @@
 terraform {
 
   cloud {
-    organization = "hashicorp-learn"
+    organization = "cdw-dvs"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "getting-started"
     }
   }
 
